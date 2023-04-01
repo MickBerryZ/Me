@@ -8,4 +8,4 @@
 
 🌱 I’m currently learning Programming such as PHP, C#, Python, AI, Machine learning, IoT. I am confident that my experience in Programmer and IT Support will prove to be a suitable match for your needs.
 
-📫 How to reach me ... sa.thawatchai@gmail.com
+📫 How to reach me. Email: sa.thawatchai@gmail.com
